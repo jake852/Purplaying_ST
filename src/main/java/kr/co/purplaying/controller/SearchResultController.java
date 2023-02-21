@@ -182,43 +182,6 @@ public class SearchResultController {
    
     
     
-//creatorSearch
-    
-    
-    
-    
-    
-    
-    
-//    try {
-//      Map map = new HashMap();
-//      List<SearchResultDto> list_nm = searchResultDao.searchResult(map);
-//      m.addAttribute("list_nm", list_nm);
-//      m.addAttribute("keyword", sr);
-//      
-//     
-//      
-//    }catch (Exception e) {
-//      e.printStackTrace();
-//    }
-//    
-//    
-//  
-//    return "searchResult";
-//   
-//    
-//  }
-//  
-//  public String searchResult(Map map,
-//      @RequestParam(value = "keyword", defaultValue = "") String keyword, HttpServletRequest request) throws Exception {
-//    
-//    
-//    return keyword;
-//
-//  }
-  
-  
-
 
 
 
